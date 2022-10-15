@@ -1,6 +1,6 @@
 ## Modern CSS Glowing Button Hover Effects 02
 
-This is one of the coolest animated button I've ever code. 
+This is one of the coolest animated button I've ever coded. 
 
 I practiced here CSS vars, shadows, transformations and letter-spacing CSS properties.
 
